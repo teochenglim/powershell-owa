@@ -1,6 +1,9 @@
 # powershell-owa
 Use powershell to send email using exchange webmail
 
+## Step 0: clone the repo
+c:\code\owa> git clone https://github.com/teochenglim/powershell-owa
+
 ## Step 1: Uncomment line 2 for your own to save your password
 ### Take credential from XML file, uncomment line 2 for the first time
 
